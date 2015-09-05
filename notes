@@ -3,3 +3,5 @@ http://andyatkinson.com/blog/2014/06/23/sharing-rake-tasks-in-gems
 
 Rakefile tutorial
 http://www.sitepoint.com/rake-automate-things/
+
+Change version in lib/rake_install_example/version.rb

@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = RakeInstallExample::VERSION
   spec.authors       = ["John B. Wyatt IV"]
   spec.email         = ["johnwyatt@jbwyatt4.com"]
-  spec.version       = 0.0.1
+
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
